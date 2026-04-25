@@ -8,7 +8,7 @@ We are building a smartphone that breaks the cycle of bloated software and throt
 
 ## 🛠 Technical Specifications (Phase 1)
 - **Target Performance:** 3,000,000+ AnTuTu Score.
-- **Kernel:** Proprietary optimization for Dimensity 9300.
+- **Kernel:** Proprietary optimization for Dimensity 9300+.
 - **OS:** Lean, high-efficiency architecture based on AOSP.
 - **Battery:** 7000mAh Silicon-Carbon (Si-C) Anode technology in a <8.8mm body.
 - **Display:** 120Hz with Hyper-Fluid UI responsiveness.
